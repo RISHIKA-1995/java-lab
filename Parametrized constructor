@@ -24,9 +24,9 @@ public class Parametrized{
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         parametarized_constructor con = new parametarized_constructor();  //no parameters
-        parametarized_constructor p1con = new parametarized_constructor("tejaswini");
-        parametarized_constructor p2con = new parametarized_constructor("tejaswin","CSE_E");//two parameters
-        parametarized_constructor p3con = new parametarized_constructor("tejaswini","CSE_E",207);//three parameters
+        parametarized_constructor p1con = new parametarized_constructor("Rishika");
+        parametarized_constructor p2con = new parametarized_constructor("Rishika","CSE_E");//two parameters
+        parametarized_constructor p3con = new parametarized_constructor("Rishika","CSE_E",207);//three parameters
     }
 }
 
