@@ -1,4 +1,4 @@
-package Com.sample;
+package java5u2;
 import java.util.Scanner;
 public class Electricity_bill {
 
@@ -32,3 +32,4 @@ public class Electricity_bill {
 	}
 
 }
+
