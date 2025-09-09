@@ -1,4 +1,4 @@
-package Com.sample;
+package java5u2;
 import java.util.Scanner;
 public class Calculator {
 
@@ -31,3 +31,4 @@ public class Calculator {
 	}
 
 }
+
