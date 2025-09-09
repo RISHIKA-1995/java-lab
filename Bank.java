@@ -1,4 +1,4 @@
-package Com.sample;
+package java5u2;
 class Rbibank{
 	public double getRateOfInterest() {
 		return 5.0;
@@ -43,3 +43,4 @@ public class Bank {
 	}
 
 }
+
