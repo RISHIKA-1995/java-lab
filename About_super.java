@@ -1,4 +1,4 @@
-package Com.sample;
+package java5u2;
 class GP{
 	GP(){
 		super();
@@ -26,3 +26,4 @@ public class About_super {
 	}
 
 }
+
