@@ -1,4 +1,4 @@
-package Com.sample;
+package java5u2;
  abstract class Shape
 {
 	int a,b;
@@ -57,3 +57,4 @@ public class Abstract_class {
 	}
 
 }
+
